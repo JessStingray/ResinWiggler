@@ -17,7 +17,7 @@ Grab one of the GCode files above and slap them on a USB. Plug it in to your pri
 - ReasonableMix: 50 mixes, with a two minute wait time to allow dripping.
 - QuickMix: 10 mixes, with thirty seconds of drip time.
 
-The longer it's been since you printed anything, the longer you should probably mix. 
+The longer it's been since you printed anything, the longer you should probably mix. "Wait times" are after all mixing is complete, and are intended to try and minimise splatter from droplets. 
 
 ## Will it work on my printer? 
 
